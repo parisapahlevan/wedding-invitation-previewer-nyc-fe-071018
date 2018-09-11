@@ -1,0 +1,22 @@
+ul {text-align: center;
+list-style: none;
+}
+
+li {
+  display:inline-block;
+  margin: 5px;
+}
+
+.parent {
+  display: flex;
+}
+.colum  {
+  flex: 1;
+}
+.Left {
+  background-color: red;
+}
+.invitation {
+  background: url("http://webarchitecte.co/wp-content/uploads/2018/08/blank-wedding-invitation-designs-hd-with-blank-wedding-invitation-paper-blank-wedding-invitation-paper-blank-wedding-invitation-paper-to-make-cool-cute-wedding-invitation-cards-185.jpg") no-repeat center ;
+  height: 100%;
+}
